@@ -1,0 +1,280 @@
+bus_name,bus_number,stop,time
+Arcot ,1,ARCOT,5.10 a.m.
+Arcot,1,TOLL GATE,5.20 a.m.
+Arcot,1,SUMAITHANGI,5.25 a.m.
+Arcot,1,KAVERIPAKKAM,5.30 a.m.
+Arcot,1,OCHERI,5.40 a.m
+Arcot,1,PERUPULIPAKKAM,5.45 a.m
+Arcot,1,PAUL CHETTY,6.00 a.m
+Arcot,1,COLLEGE,7.15.a.m
+Vandavasi,2,VANDAVASI,5.05 A.M
+Vandavasi,2,VEERAMBAKKAM,5.15 A.M
+Vandavasi,2,MELMA KOOT ROAD,5.20 A.M
+Vandavasi,2,MANAMADHI KOOT ROAD,5.25 A.M
+Vandavasi,2,KOODIMANTHAL,5.30 A.M
+Vandavasi,2,MANGAL KOOT ROAD,5.35 A.M
+Vandavasi,2,MAMANDUR,5.40 A.M
+Vandavasi,2,METTU THERU KPM,5.55 A.M
+Vandavasi,2,KACHALEESWARAR TEMPLE,6.00 A.M
+Vandavasi,2,EKAMBARESWARAR TEMPLE,6.05 A.M
+Vandavasi,2,COLLEGE,7.15 A.M
+Cheyyar,3,R C M SCHOOL,5.10 A.M
+Cheyyar,3,STATE BANK,5.10 A.M
+Cheyyar,3,SOUNTHRI,5.10 A.M
+Cheyyar,3,PULIREIPAKKAM,5.15 A.M
+Cheyyar,3,BARALI,5.25 A.M
+Cheyyar,3,PANDIYAPAKKAM,5.25 A.M
+Cheyyar,3,CHOLAVARAM,5.30 A.M
+Cheyyar,3,MANGAL KOOT ROAD,5.35 A.M
+Cheyyar,3,THOOSI,5.40 A.M
+Cheyyar,3,IYYENGAR KOOT ROAD,5.40 A.M
+Cheyyar,3,HOUSING BOARD,5.50 A.M
+Cheyyar,3,COLLECTOR OFFICE,5.50 A.M
+Cheyyar,3,MUNGIL MANDAPAM,5.55 A.M
+Cheyyar,3,KANCHEEPURAM BUS  STAND,6.00 A.M
+Cheyyar,3,COLLEGE,7.15 A.M
+Kancheepuram,4,VALPATTARAI,5.45a.m
+Kancheepuram,4,RENGASAMY KULAM,5.50a.m
+Kancheepuram,4,VISHNU KOVIL,5.55 a.m.
+Kancheepuram,4,PEIYAR NAGAR,6.00 a.m.
+Kancheepuram,4,YAGANAPETTAI,6.10 a.m.
+Kancheepuram,4,ORAGADAM,6.30a.m
+Kancheepuram,4,VALLAKOTTAI,6.35a.m
+Kancheepuram,4,SRIPERUMPUDUR BUS STAND,6.50 a.m.
+Kancheepuram,4,THERADI,6.55 a.m.
+Kancheepuram,4,COLLEGE,7.15.a.m
+Kancheepuram,5,MILITARY ROAD,5.45a.m
+Kancheepuram,5,KEEL GATE,5.50a.m
+Kancheepuram,5,KEERAI MANDAPAM,5.50a.m
+Kancheepuram,5,PAVAPETTAI STREET,6.00a.m
+Kancheepuram,5,RENGASAMY KULAM,6.00a.m
+Kancheepuram,5,LADIES COLLEGE,6.00a.m
+Kancheepuram,5,POLICE STATION,6.05a.m
+Kancheepuram,5,CHETTY STREET,6.05a.m
+Kancheepuram,5,TOLL GATE,6.05a.m
+Kancheepuram,5,GENTS COLLEGE,6.05a.m
+Kancheepuram,5,IYYAMPETTAI,6.10a.m
+Kancheepuram,5,WALAJABAD,6.15a.m
+Kancheepuram,5,SOKUKADU,6.15a.m
+Kancheepuram,5,VARNAVASI,6.25a.m
+Kancheepuram,5,ORAGADAM,6.35a.m
+Kancheepuram,5,VALLAKOTTAI,6.40a.m
+Kancheepuram,5,PONTHUR,6.40a.m
+Kancheepuram,5,COLLEGE,7.15.a.m
+Kancheepuram,6,HOUSING BOARD,5.45 A.M
+Kancheepuram,6,COLLECTOR OFFICE,5.45 A.M
+Kancheepuram,6,MOOGIL MANDAPAM,5.50 A.M
+Kancheepuram,6,BUS STAND,5.55 A.M
+Kancheepuram,6,KACHALEESWARAR TEMPLE,5.55 A.M
+Kancheepuram,6,EKAMBARESWARAR TEMPLE,6.00 A.M
+Kancheepuram,6,GUJARTHI CHITRAM,6.00 A.M
+Kancheepuram,6,KOHRI,6.05 A.M
+Kancheepuram,6,COLLEGE,7.15 A.M
+Kancheepuram,7,KANCHEEPURAM BUS STAND,6.00 a.m.
+Kancheepuram,7,PONNERI KARAI,6.05a.m..
+Kancheepuram,7,SUGAVACHITTRAM,6.30a.m..
+Kancheepuram,7,SRIPERUMBUDUR,6.45 a.m.
+Kancheepuram,7,THANDALAM,7.00a.m
+Kancheepuram,7,COLLEGE,7.15.a.m
+Tiruvallur,8,YAMAHA SHOWROOM,6.15  a.m.
+Tiruvallur,8,SR MANDAPAM,"6.20 a,m,"
+Tiruvallur,8,PULIYA MARAM BUS STOP[,6.20 a.m.
+Tiruvallur,8,VEPPAMPATTU,6.20 a.m.
+Tiruvallur,8,KANDAN KOLLAI,6.20 a.m
+Tiruvallur,8,SEVVAPETTAI,6.30 a.m.
+Tiruvallur,8,KAKALOOR,6.35 a.m.
+Tiruvallur,8,OLD COLLECTOR OFFICE,6.40 a.m.
+Tiruvallur,8,AVADI ROAD SIGNAL,6.45 a.m.
+Tiruvallur,8,MUNICIPALITY,6.45 a.m.
+Tiruvallur,8,L.I.C,6.45 a.m
+Tiruvallur,8,OIL MILL,6.45 a.m
+Tiruvallur,8,COLLEGE,7.15.a.m
+Chekkadu,9,CHEKKADU,6.05  a.m.
+Chekkadu,9,HINDU COLLEGE,"6.10 a,m,"
+Chekkadu,9,PATTABIRAM BRIDGE,6.15 a.m.
+Chekkadu,9,JAIKRISHNA MARRIAGE HALL,6.15 a.m.
+Chekkadu,9,AMUDHUR MEDU,6.20 a.m
+Chekkadu,9,NEMILICHERI ROUNDTANA,6.30 a.m.
+Chekkadu,9,JAYA COLLEGE,6.35 a.m.
+Chekkadu,9,PANDIAN RICE MILL,6.35 a.m.
+Chekkadu,9,INDIAN OIL PETROL BUNK,6.35 a.m.
+Chekkadu,9,COLLEGE,7.15.a.m
+Panapakkam,10,PANAPAKKAM,5.30 a.m
+Panapakkam,10,NEMLI,5.45 a.m
+Panapakkam,10,PETROL BUNK,5.50 a.m
+Panapakkam,10,SENTHAMANGALAM,5.55 a.m
+Panapakkam,10,PINNAVARAM,6.00 a.m
+Panapakkam,10,PARAMESWARAMANGALAM,6.05 a.m
+Panapakkam,10,THAKKOLAM  KOOT ROAD,6.05 a.m
+Panapakkam,10,THAKKOLAM  POLICE STATION,6.10 a.m
+Panapakkam,10,THAKKOLAM,6.15 a.m
+Panapakkam,10,CHECK POST,6.20 a.m
+Panapakkam,10,MARIMANAGALAM,6.20 a.m
+Panapakkam,10,NARSINGAPURAM,6.25 a.m
+Panapakkam,10,PERAMBAKKAM,6.30 a.m
+Panapakkam,10,COLLEGE,7.15 a.m
+Arakonam,11,ARAKONAM BUS STAND,5.50 a.m
+Arakonam,11,S R GATE,5.55 a.m
+Arakonam,11,PERUMOOCHU,6.00 a.m
+Arakonam,11,THAKOLAM RAILWAY STATION,6.05a.m
+Arakonam,11,COLLEGE,7.15.a.m
+Perambakkam,12,PERAMBAKKAM,6.25 a.m
+Perambakkam,12,KOOVAM,6.25 a.m
+Perambakkam,12,KONDACHERRY,6.30 a.m.
+Perambakkam,12,MAPPEDU,6.35 a.m.
+Perambakkam,12,VELLAI KALVAI,6.35 a.m.
+Perambakkam,12,SAMATHUVAPURAM,6.40 a.m.
+Perambakkam,12,ULUNDAI,6.45 a.m.
+Perambakkam,12,VALARPURAM,6.50 a.m.
+Perambakkam,12,CINNA VALARPURAM,6.50 a.m.
+Perambakkam,12,MEVALUR KUPPAM,6.55 a.m.
+Perambakkam,12,VIJAYA SHANTHI APARTMENT,7.00 a.m.
+Perambakkam,12,PAPPANCHATHIRAM,7.05 a.m.
+Perambakkam,12,CHEMBARAMBAKKAM,"7.10 a,m"
+Perambakkam,12,COLLEGE,7.15.a.m
+Tirutttani,13,TIRUTTANI  DEPOT,5.15 A.M
+Tirutttani,13,TIRUTTANI  PARK,5.20 A.M
+Tirutttani,13,KANAGAMMA CHATHIRAM,5.45 A.M
+Tirutttani,13,THIRUVALANGADU,6.00 A.M
+Tirutttani,13,COLLEGE,7.30 a.m.
+Tirutttani,14,KG KANDIGAI,5.10  a.m.
+Tirutttani,14,VIRAGA NALOOR,"5.20 a,m,"
+Tirutttani,14,VETRIVEL NAGAR,5.25 a.m.
+Tirutttani,14,PWD OFFICE,5.30 a.m.
+Tirutttani,14,TVS,5.35 a.m
+Tirutttani,14,BYE-PASS,5.40  a.m
+Tirutttani,14,THAIYAMARAM BRIDGE,5.45 a.m.
+Tirutttani,14,ARUNKULAM KOOTROAD,5.50 a.m.
+Tirutttani,14,LAKSHMIPURAM,5.55 a.m.
+Tirutttani,14,ARCOT KUPPAM,6.00 a.m.
+Tirutttani,14,RAMACHERRY,6.10 a.m.
+Tirutttani,14,NARAYANAPURAM KOOTROAD,6.20 a.m.
+Tirutttani,14,KANAGAVALLIPURAM,6.25 a.m.
+Tirutttani,14,COLLEGE,7.15.a.m
+Kadambathur,15,KADAMBATHUR,6.10  a.m.
+Kadambathur,15,SSS MANDAPAM,"6.15 a,m,"
+Kadambathur,15,PRIYANKUPPAM,6.20 a.m.
+Kadambathur,15,PUDHIYA THIRUPACHUR,6.23 a.m.
+Kadambathur,15,PAZHAYA THIRUPACHUR,6.30 a.m
+Kadambathur,15,MEERA THEATRE,6.33 a.m.
+Kadambathur,15,TIRUVALLUR PETROL BUNK,6.35 a.m.
+Kadambathur,15,OIL MILL,6.43 a.m.
+Kadambathur,15,MANAVALAN NAGAR,6.45 a.m.
+Kadambathur,15,NDB MANDAPAM,6.47 a.m.
+Kadambathur,15,UNDI KUPPAM,6.4 a.m
+Kadambathur,15,COLLEGE,7.15.a.m
+Uthukottai(Via thiruvallur),16,UTHUKOTTAI  CIRCLE OFFICE,5.55  a.m.
+Uthukottai(Via thiruvallur),16,UTHUKOTTAI  BUS STAND,5.55  a.m.
+Uthukottai(Via thiruvallur),16,UTHUKOTTAI JUNCTION,5.57  a.m.
+Uthukottai(Via thiruvallur),16,PSV PETROL BUNK,5.58  a.m.
+Uthukottai(Via thiruvallur),16,EB OFFICE,6.00 a.m.
+Uthukottai(Via thiruvallur),16,PONDAVAKKAM,6.03 a.m.
+Uthukottai(Via thiruvallur),16,KATCHUR,6.05 a.m.
+Uthukottai(Via thiruvallur),16,SEETHANJERI,6.10 a.m.
+Uthukottai(Via thiruvallur),16,ODAPPAI,6.15 a.m.
+Uthukottai(Via thiruvallur),16,POONDI,6.20 a.m.
+Uthukottai(Via thiruvallur),16,PULLARAM BAKKAM,6.25 a.m.
+Uthukottai(Via thiruvallur),16,SAI BABA,6.30 a.m.
+Uthukottai(Via thiruvallur),16,PUDUCHATHIRAM,6.55 a.m.
+Uthukottai(Via thiruvallur),16,NEMAM,7.00 a.m.
+Uthukottai(Via thiruvallur),16,VELLEVEDU,7.05 a.m.
+Uthukottai(Via thiruvallur),16,THIRUMIZHASI,7.10 a.m.
+Uthukottai(Via thiruvallur),16,COLLEGE,7.15.a.m
+Uthukottai(Via PERIYAPALAYAM),17,DHAMBARA MEDU,5.35  a.m.
+Uthukottai(Via PERIYAPALAYAM),17,PERANDUR,5.40  a.m.
+Uthukottai(Via PERIYAPALAYAM),17,PALAVAKKAM,5.45  a.m.
+Uthukottai(Via PERIYAPALAYAM),17,SOOLAIMANI,5.48  a.m.
+Uthukottai(Via PERIYAPALAYAM),17,THANDALAM,5.53 a.m.
+Uthukottai(Via PERIYAPALAYAM),17,PERIYAPALAYAM,6.00 a.m.
+Uthukottai(Via PERIYAPALAYAM),17,VADAMADURAI,6.05 a.m.
+Uthukottai(Via PERIYAPALAYAM),17,VENGAL,6.10 a.m.
+Uthukottai(Via PERIYAPALAYAM),17,PAGALMEDU,6.15 a.m.
+Uthukottai(Via PERIYAPALAYAM),17,THAMARAIPAKKAM,6.20 a.m.
+Uthukottai(Via PERIYAPALAYAM),17,PAKKAM,6.30 a.m.
+Uthukottai(Via PERIYAPALAYAM),17,SRIPATHI NAGAR,6.33 a.m.
+Uthukottai(Via PERIYAPALAYAM),17,LAKSHMI THEATRE,6.40 a.m.
+Uthukottai(Via PERIYAPALAYAM),17,GOMATHIPURAM,6.43 a.m.
+Uthukottai(Via PERIYAPALAYAM),17,KOSAVANPALAYAM,6.48 a.m.
+Uthukottai(Via PERIYAPALAYAM),17,KOTTAMEDU,6.50 a.m.
+Uthukottai(Via PERIYAPALAYAM),17,COLLEGE,7.10.a.m
+Chekkadu,18,CHEKKADU,6.15 a.m
+Chekkadu,18,HINDU COLLEGE,6.20 a.m
+Chekkadu,18,PATTABIRAM,6.25 a.m
+Chekkadu,18,THANDARAI,6.30 a.m
+Chekkadu,18,AMUDHUR  MEDU,6.35 a.m
+Chekkadu,18,COLLEGE,7.15 a.m
+Thirunindravur,19,THIRUNINDRAVUR (LAKSHMI THEATRE),6.35 a.m
+Thirunindravur,19,EB OFFICE,6.35 a.m
+Thirunindravur,19,RAJANKUPPAM,6.40 a.m
+Thirunindravur,19,KOTTAMEDU,6.45 a.m
+Thirunindravur,19,NEMAM,6.50 a.m
+Thirunindravur,19,VELLAVEDU,6.55 a.m
+Thirunindravur,19,THIRUMAZHISAI BUS STANAD,7.00 a.m
+Thirunindravur,19,SIVAN KOVIL,7.05 a.m
+Thirunindravur,19,COLLEGE,7.15 a.m
+Thirunindravur,20,THIRUNINDRAVUR,6.20 a.m
+Thirunindravur,20,KARUPATTI COFFEE,6.25 a.m
+Thirunindravur,20,PANDIAN RICE MILL,6.25 a.m
+Thirunindravur,20,JAYA COLLEGE,6.30 a.m
+Thirunindravur,20,NEMILLICHERRY,6.35 a.m
+Thirunindravur,20,COLLEGE,7.15 a.m
+Triplicane 1,21,AMIR MAHAL,6.00 a.m
+Triplicane 1,21,ZAM BAZZAR (POLICE STATION),6.05 a.m
+Triplicane 1,21,RATHNA CAFE,6.10 a.m
+Triplicane 1,21,BELLS ROAD,6.15 a.m
+Triplicane 1,21,GOSHA HOSPITAL,6.20 a.m
+Triplicane 1,21,D1 POLICE STATION,6.20 a.m
+Triplicane 1,21,CHINTADRIPET,6.25 a.m
+Triplicane 1,21,P T SCHOOL,6.30 a.m
+Triplicane 1,21,COLLEGE,7.15 a.m
+Triplicane 2,22,"MUSIC ACADEMY , ARYA GOWDA ROAD",5.55 a.m
+Triplicane 2,22,ROYAPETTAI BRIDGE,6.00 a.m
+Triplicane 2,22,ICE HOUSE,6.05 a.m
+Triplicane 2,22,RATHNA CAFE,6.10 a.m
+Triplicane 2,22,D1 POLICE STATION,6.10 a.m
+Triplicane 2,22,ASHOKA HOTEL,6.15 a.m
+Triplicane 2,22,CHILDREN HOSPITAL,6.15 a.m
+Triplicane 2,22,CHETPET POLICE STATION,6.17 a.m
+Triplicane 2,22,STERLING ROAD SIGNAL,6.20 a.m
+Triplicane 2,22,CHOOLAIMEDU,6.25 a.m
+Triplicane 2,22,SKY WALK BRIDGE,6.30 a.m
+Triplicane 2,22,COLLEGE,7.15 a.m
+MMDA,23,MMDA,6.25 a.m
+MMDA,23,POPULAR STUDIO,6.25 a.m
+MMDA,23,WATER TANK,6.30 a.m
+MMDA,23,RAZARK GARDEN,6.30 a.m
+MMDA,23,NERKUNDRAM,6.35 a.m
+MMDA,23,VENKAYA MANDI,6.35 a.m
+MMDA,23,COLLEGE,7.15 a.m
+ATHIPATU,24,ATHIPATU,5.30.A.M
+ATHIPATU,24,THAZHANKUPPAM,5.35.A.M
+ATHIPATU,24,ANNAI SIVAKAMI NAGAR,5.40.A.M
+ATHIPATU,24,BHARATHIYAR NAGAR,5.45.A.M
+ATHIPATU,24,MRF  BEACH ROAD,5.50.A.M
+ATHIPATU,24,N 4,6.00.A.M
+ATHIPATU,24,KASIMEDU,6.05.A.M
+ATHIPATU,24,KALMANDAPAM,6.10 A.M
+ATHIPATU,24,ROYAPURAM,6.15.A.M
+ATHIPATU,24,BEACH STATION,6.20 A.M.
+ATHIPATU,24,HIGH COURT,6.22 A.M.
+ATHIPATU,24,CENTRAL,6.25 A.M.
+ATHIPATU,24,TAYLOR’S ROAD,6.30 A.M.
+ATHIPATU,24,COLLEGE,7.15 A.M.
+ERNAVUR LIFT GATE,25,ERNAVUR LIFT GATE,5.40 A.M
+ERNAVUR LIFT GATE,25,WIMCO NAGAR,5.45 A.M
+ERNAVUR LIFT GATE,25,AJAX,5.50 A.M
+ERNAVUR LIFT GATE,25,THERADI,5.50 A.M
+ERNAVUR LIFT GATE,25,RAJAKADAI,5.55 A.M
+ERNAVUR LIFT GATE,25,TOLL GATE,6.00 A.M
+ERNAVUR LIFT GATE,25,BEACH STATION,6.05 A.M
+ERNAVUR LIFT GATE,25,CENTRAL,6.10 A.M
+ERNAVUR LIFT GATE,25,COLLEGE,7.15 A.M
+THIRUVOTTIYUR  TOLLGATE,26,TOLL GATE,5.45 a.m
+THIRUVOTTIYUR  TOLLGATE,26,MANI CYCLE STORE,5.50 a.m
+THIRUVOTTIYUR  TOLLGATE,26,MAHARANI,5.55 a.m
+THIRUVOTTIYUR  TOLLGATE,26,MINT,6.00 a.m
+THIRUVOTTIYUR  TOLLGATE,26,CHOOLAI,6.05a.m
+THIRUVOTTIYUR  TOLLGATE,26,PURASAIVAKKAM,6.10 a.m
+THIRUVOTTIYUR  TOLLGATE,26,KELLIS,6.15 a.m
+THIRUVOTTIYUR  TOLLGATE,26,NEW  AVADI  ROAD,6.20a.m
+THIRUVOTTIYUR  TOLLGATE,26,COLLEGE,7.00.a.m
