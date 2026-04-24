@@ -24,7 +24,6 @@ def home():
 @app.route("/search")
 def search():
 
-    # 🔥 latest CSV data every search
     data = load_data()
 
     q = request.args.get("q", "").lower().strip()
@@ -34,9 +33,8 @@ def search():
 
     buses = {}
 
-    # ---------- Filter buses ----------
+    # ---------- Filter ----------
     for row in data:
-
         bus_name = row.get("bus_name", "").lower()
         bus_number = row.get("bus_number", "").strip()
         stop = row.get("stop", "").lower()
@@ -52,10 +50,24 @@ def search():
 
     result = ""
 
-    # ---------- Full route table ----------
+    # 🔥 Bus count
+    result += f"<h2 style='text-align:center;'>{len(buses)} Bus Found 🚍</h2>"
+
+    # ---------- Build UI ----------
     for (bus, number) in buses.keys():
 
-        result += f"<h3 style='color:#333;'>{bus} ({number})</h3>"
+        result += f"""
+        <div style="
+        background:white;
+        padding:20px;
+        margin:20px auto;
+        width:85%;
+        border-radius:12px;
+        box-shadow:0 5px 15px rgba(0,0,0,0.2);
+        ">
+
+        <h3 style='color:#007BFF;margin-bottom:10px;'>{bus} ({number})</h3>
+        """
 
         result += """
         <table style="
@@ -63,10 +75,9 @@ def search():
         border-collapse:collapse;
         width:80%;
         background:white;
-        box-shadow:0 2px 10px rgba(0,0,0,0.1);
         border-radius:8px;
         overflow:hidden;
-        margin-bottom:30px;
+        margin-bottom:20px;
         ">
         <tr style="background:#007BFF;color:white;">
             <th style="padding:12px;">Stop</th>
@@ -80,10 +91,9 @@ def search():
                 stop_name = r.get("stop", "")
                 time = r.get("time", "")
 
-                # searched stop text mattum highlight
                 if q in stop_name.lower():
                     result += f"""
-                    <tr>
+                    <tr style="transition:0.3s;">
                         <td style="padding:10px;border:1px solid #ddd;">
                             <span style="background:yellow;font-weight:bold;">{stop_name}</span>
                         </td>
@@ -92,13 +102,13 @@ def search():
                     """
                 else:
                     result += f"""
-                    <tr>
+                    <tr style="transition:0.3s;">
                         <td style="padding:10px;border:1px solid #ddd;">{stop_name}</td>
                         <td style="padding:10px;border:1px solid #ddd;">{time}</td>
                     </tr>
                     """
 
-        result += "</table>"
+        result += "</table></div>"   # ✅ correct indent
 
     return result
 
